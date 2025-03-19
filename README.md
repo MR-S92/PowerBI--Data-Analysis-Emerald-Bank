@@ -7,7 +7,7 @@ Emerald Crown Bank wants to create an in-depth annual report for 2025, analyzing
 
 ## Dataset used 
 
-- <a href= "https://github.com/MR-S92/PowerBI--Data-Analysis-Emerald-Bank/blob/main/Emerald_Crown_Bank.sql">Dataset</a>
+- <a href= "https://github.com/MR-S92/PowerBI--Data-Analysis-Emerald-Bank/blob/main/Emerald_Crown_Bank.sql">Link to SQL Dataset</a>
 
 ## Questions (KPIs) 
 
