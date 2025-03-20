@@ -37,7 +37,8 @@ Upload and present my project in GitHub.
 
 ## Dashboard 
 
-..... 
+![image](https://github.com/user-attachments/assets/119f1d47-79a0-4142-8604-41912fb8c4e0)
+
 
 ## Project Insight 
 
