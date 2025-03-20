@@ -236,7 +236,7 @@ VALUES
     (210, 'Eva', 'Nelson', 'female', '1988-06-11', 'Software Engineer', 102000, 11800.30, 'Texas', 15000, 725, 3),
     (211, 'James', 'Garcia', 'male', '1991-04-17', 'UX Designer', 110000, 12400.20, 'Georgia', 16000, 740, 4),
     (212, 'Liam', 'Collins', 'male', '1978-07-29', 'Financial Planner', 115000, 13000.10, 'Florida', 17000, 745, 4),
-    (213, 'Zoe', 'Harrison', 'female', '2002-08-22', 'Architect', 45000, 14000.50, 'California', 18000, 760, 5),
+    (213, 'Zoe', 'Harrison', 'female', '2004-08-22', 'Architect', 45000, 14000.50, 'California', 18000, 760, 5),
     (214, 'Lucas', 'Young', 'male', '1986-05-05', 'Investment Banker', 130000, 15000.30, 'Texas', 20000, 770, 5),
     (215, 'Lily', 'Reed', 'female', '1991-10-01', 'Consultant', 115000, 12500.80, 'Georgia', 17000, 735, 4),
     (216, 'Nathan', 'Lee', 'male', '1978-01-18', 'Operations Manager', 120000, 13500.90, 'California', 18000, 745, 5),
@@ -318,7 +318,7 @@ VALUES
     (292, 'Gianna', 'Roberts', 'female', '1991-09-08', 'Project Manager', 120000, 13000.80, 'Florida', 16000, 735, 4),
     (293, 'Elijah', 'Walker', 'male', '1988-11-01', 'Software Developer', 110000, 12000.30, 'California', 16000, 730, 4),
     (294, 'Ivy', 'Harris', 'female', '1986-12-04', 'HR Specialist', 105000, 11000.10, 'Texas', 15000, 725, 3),
-    (295, 'James', 'Morris', 'male', '1994-07-23', 'Marketing Manager', 120000, 13000.20, 'Florida', 17000, 735, 4),
+    (295, 'James', 'Morris', 'male', '2004-07-23', 'Marketing Manager', 120000, 13000.20, 'Florida', 17000, 735, 4),
     (296, 'Chloe', 'Taylor', 'female', '1992-06-17', 'Systems Engineer', 115000, 12500.40, 'California', 16000, 730, 4),
     (297, 'Isaiah', 'Johnson', 'male', '1986-11-29', 'Data Analyst', 105000, 11000.60, 'Texas', 15000, 725, 3),
     (298, 'Riley', 'White', 'female', '1991-08-19', 'Product Designer', 120000, 13000.50, 'Florida', 16000, 735, 4),
@@ -332,21 +332,21 @@ VALUES
     (306, 'Eliana', 'Gonzalez', 'female', '1991-08-05', 'Marketing Director', 110000, 12000.30, 'Texas', 15000, 725, 4),
     (307, 'Luca', 'Davis', 'male', '1988-05-28', 'Software Developer', 115000, 12500.50, 'Florida', 16000, 735, 5),
     (308, 'Aria', 'Morris', 'female', '1992-12-01', 'Consulting Engineer', 120000, 13000.90, 'California', 17000, 740, 5),
-    (309, 'Caleb', 'Parker', 'male', '1994-11-10', 'Business Consultant', 115000, 12000.20, 'Texas', 16000, 730, 5),
+    (309, 'Caleb', 'Parker', 'male', '2004-11-10', 'Business Consultant', 115000, 12000.20, 'Texas', 16000, 730, 5),
     (310, 'Charlotte', 'Reed', 'female', '1987-07-24', 'Financial Analyst', 105000, 11000.60, 'Florida', 15000, 725, 3),
     (311, 'Maximus', 'Lewis', 'male', '1989-02-16', 'Project Director', 120000, 13000.50, 'California', 17000, 740, 5),
     (312, 'Madeline', 'Young', 'female', '1991-05-20', 'Product Designer', 110000, 12000.80, 'Texas', 16000, 735, 4),
     (313, 'Oliver', 'Moore', 'male', '1992-09-05', 'Civil Engineer', 130000, 14500.20, 'Florida', 19000, 760, 5),
-    (314, 'Maya', 'Hall', 'female', '1994-08-30', 'Marketing Consultant', 105000, 11500.40, 'Georgia', 15000, 725, 3),
+    (314, 'Maya', 'Hall', 'female', '2004-08-30', 'Marketing Consultant', 105000, 11500.40, 'Georgia', 15000, 725, 3),
     (315, 'Zoe', 'Scott', 'female', '1987-10-04', 'IT Manager', 125000, 14000.30, 'Texas', 19000, 755, 5),
     (316, 'Theo', 'Taylor', 'female', '1992-01-24', 'Legal Advisor', 120000, 13000.60, 'California', 17000, 740, 5),
     (317, 'Ava', 'Lopez', 'female', '1988-03-22', 'Financial Consultant', 110000, 12000.50, 'Texas', 16000, 735, 4),
     (318, 'Lennox', 'Johnson', 'male', '1987-11-16', 'Operations Manager', 130000, 14500.30, 'Florida', 20000, 765, 5),
     (319, 'Nina', 'White', 'female', '1992-06-12', 'Business Executive', 125000, 13500.80, 'California', 18000, 750, 5),
-    (320, 'Elijah', 'Gibson', 'male', '1994-04-05', 'Product Manager', 115000, 12000.40, 'Texas', 16000, 735, 4),
+    (320, 'Elijah', 'Gibson', 'male', '2004-04-05', 'Product Manager', 115000, 12000.40, 'Texas', 16000, 735, 4),
     (321, 'Amos', 'Williams', 'male', '1992-11-01', 'Marketing Executive', 125000, 13000.90, 'Florida', 17000, 740, 5),
     (322, 'Catherine', 'Taylor', 'female', '1991-07-16', 'Data Scientist', 130000, 14000.70, 'Georgia', 18000, 760, 5),
-    (323, 'Eli', 'Roberts', 'male', '1994-09-13', 'Civil Engineer', 110000, 11500.30, 'Texas', 15000, 725, 3),
+    (323, 'Eli', 'Roberts', 'male', '2004-09-13', 'Civil Engineer', 110000, 11500.30, 'Texas', 15000, 725, 3),
     (324, 'Ivy', 'Martinez', 'female', '1987-12-02', 'Project Manager', 120000, 13000.20, 'California', 17000, 740, 5),
     (325, 'Julian', 'Harris', 'male', '1992-08-21', 'Business Consultant', 105000, 11500.60, 'Florida', 15000, 725, 3),
     (326, 'Addison', 'Moore', 'female', '1988-06-14', 'Product Designer', 110000, 12000.40, 'Texas', 16000, 735, 4),
@@ -661,7 +661,7 @@ VALUES
     (685, 'Benjamin', 'King', 'male', '1991-11-27', 'Business Consultant', 120000, 12800.70, 'California', 16000, 735, 5),
     (686, 'Zoe', 'Roberts', 'female', '1989-01-03', 'Legal Executive', 125000, 13300.50, 'New York', 17000, 740, 5),
     (687, 'Aiden', 'Carter', 'male', '1990-11-19', 'Operations Executive', 130000, 14100.70, 'Texas', 17500, 765, 6),
-    (688, 'Mason', 'Young', 'male', '2002-08-30', 'Construction', 62000, 12800.50, 'California', 16000, 735, 5),
+    (688, 'Mason', 'Young', 'male', '2004-08-30', 'Construction', 62000, 12800.50, 'California', 16000, 735, 5),
     (689, 'Sophia', 'Roberts', 'female', '1991-01-10', 'Business Executive', 125000, 13300.60, 'Florida', 17000, 745, 5),
     (690, 'Benjamin', 'Taylor', 'male', '1989-12-02', 'Legal Specialist', 120000, 12900.40, 'Texas', 16000, 740, 5),
     (691, 'Zoe', 'Evans', 'female', '1991-06-18', 'Product Executive', 130000, 14100.80, 'California', 17500, 765, 6),
@@ -772,20 +772,20 @@ VALUES
     (796, 'Zoe', 'Young', 'female', '2004-07-01', 'Teacher', 62000, 13300.80, 'California', 17000, 612, 5),
     (797, 'Aiden', 'Wilson', 'male', '1991-01-06', 'Legal Consultant', 120000, 12800.50, 'Florida', 16000, 735, 5),
     (798, 'Mason', 'Evans', 'male', '1993-05-21', 'Operations Consultant', 125000, 13300.70, 'Maryland', 17000, 445, 5),
-    (799, 'Sophia', 'Taylor', 'female', '2002-02-17', 'Nurse', 72000, 14100.50, 'California', 55000, 765, 6),
+    (799, 'Sophia', 'Taylor', 'female', '2004-02-17', 'Nurse', 72000, 14100.50, 'California', 55000, 765, 6),
     (800, 'Benjamin', 'Roberts', 'male', '1991-11-03', 'Legal Executive', 120000, 12800.60, 'Texas', 16000, 633, 5),
     (801, 'Kacper', 'Nowak', 'male', '1998-07-12', 'Junior Software Developer', 45000, 1200.75, 'Massachusetts', 50000, 580, 2),
     (802, 'Mateusz', 'Kowalski', 'male', '1996-05-08', 'Entry-Level Accountant', 48000, 1800.50, 'Massachusetts', 61000, 540, 1),
     (803, 'Jakub', 'Wiśniewski', 'male', '1997-10-21', 'Marketing Assistant', 46000, 2000.00, 'Massachusetts', 55000, 510, 2),
     (804, 'Szymon', 'Dąbrowski', 'male', '2001-04-17', 'Customer Support Representative', 42000, 750.25, 'Massachusetts', 47000, 490, 1),
-    (805, 'Mikołaj', 'Lewandowski', 'male', '2000-09-03', 'Junior Data Analyst', 50000, 2200.30, 'Massachusetts', 58000, 570, 2),
+    (805, 'Mikołaj', 'Lewandowski', 'male', '2004-09-03', 'Junior Data Analyst', 50000, 2200.30, 'Massachusetts', 58000, 570, 2),
     (806, 'Bartosz', 'Zieliński', 'male', '1999-06-14', 'HR Assistant', 43000, 1300.10, 'Massachusetts', 53000, 490, 1),
     (807, 'Oskar', 'Szymański', 'male', '1995-12-27', 'IT Support Specialist', 47000, 1700.85, 'Massachusetts', 49000, 460, 2),
     (808, 'Dominik', 'Woźniak', 'male', '2002-03-15', 'Junior Graphic Designer', 51000, 2500.60, 'Massachusetts', 60000, 600, 3),
     (809, 'Igor', 'Kozłowski', 'male', '1998-08-09', 'Assistant Project Manager', 52000, 2900.20, 'Massachusetts', 62000, 590, 3),
     (810, 'Adam', 'Jankowski', 'male', '1997-11-19', 'Customer Success Associate', 40000, 1000.40, 'Massachusetts', 50000, 530, 2),
     (811, 'Kamil', 'Mazur', 'male', '2001-07-04', 'Junior Copywriter', 44000, 1550.90, 'Massachusetts', 49000, 480, 1),
-    (812, 'Wiktor', 'Krawczyk', 'male', '2000-01-30', 'Sales Assistant', 43000, 1200.60, 'Massachusetts', 51000, 460, 1),
+    (812, 'Wiktor', 'Krawczyk', 'male', '2004-01-30', 'Sales Assistant', 43000, 1200.60, 'Massachusetts', 51000, 460, 1),
     (813, 'Patryk', 'Kaczmarek', 'male', '1999-05-25', 'Finance Assistant', 49000, 2100.70, 'Massachusetts', 57000, 560, 2),
     (814, 'Michał', 'Piotrowski', 'male', '1996-09-22', 'Business Analyst Intern', 45000, 1900.35, 'Massachusetts', 60000, 590, 3),
     (815, 'Filip', 'Grabowski', 'male', '1995-06-18', 'Junior Recruiter', 42000, 1300.80, 'Massachusetts', 47000, 470, 1),
@@ -794,7 +794,7 @@ VALUES
     (818, 'Sebastian', 'Wieczorek', 'male', '1998-12-03', 'Research Assistant', 46000, 1800.75, 'Massachusetts', 57000, 550, 2),
     (819, 'Marcel', 'Nowicki', 'male', '1999-02-14', 'IT Technician', 52000, 3000.90, 'Massachusetts', 62000, 580, 3),
     (820, 'Krzysztof', 'Lis', 'male', '2001-11-23', 'HR Coordinator', 40000, 850.60, 'Massachusetts', 48000, 450, 1),
-    (821, 'Natalia', 'Wójcik', 'female', '2000-04-10', 'Junior Web Developer', 48000, 2300.80, 'Massachusetts', 57000, 560, 2),
+    (821, 'Natalia', 'Wójcik', 'female', '2004-04-10', 'Junior Web Developer', 48000, 2300.80, 'Massachusetts', 57000, 560, 2),
     (822, 'Aleksandra', 'Kamińska', 'female', '1995-07-30', 'Marketing Intern', 42000, 1050.40, 'Massachusetts', 49000, 470, 1),
     (823, 'Zofia', 'Zalewska', 'female', '1998-06-25', 'Data Entry Specialist', 44000, 1500.10, 'Massachusetts', 53000, 490, 1),
     (824, 'Katarzyna', 'Sikora', 'female', '2002-09-17', 'Customer Support Representative', 41000, 900.25, 'Massachusetts', 51000, 480, 1),
@@ -803,13 +803,13 @@ VALUES
     (827, 'Joanna', 'Górska', 'female', '1997-05-08', 'Entry-Level Financial Analyst', 47000, 1750.50, 'Massachusetts', 55000, 530, 2),
     (828, 'Paulina', 'Sadowska', 'female', '2001-01-30', 'IT Help Desk Technician', 43000, 1250.75, 'Massachusetts', 52000, 510, 2),
     (829, 'Anna', 'Adamczyk', 'female', '1995-08-14', 'Operations Coordinator', 45000, 1900.85, 'Massachusetts', 60000, 580, 3),
-    (830, 'Karolina', 'Majewska', 'female', '2000-06-23', 'Assistant Editor', 46000, 1750.90, 'Massachusetts', 54000, 520, 2),
+    (830, 'Karolina', 'Majewska', 'female', '2004-06-23', 'Assistant Editor', 46000, 1750.90, 'Massachusetts', 54000, 520, 2),
     (831, 'Ewa', 'Witkowska', 'female', '1998-07-15', 'Content Writer', 42000, 1100.30, 'Massachusetts', 47000, 460, 1),
     (832, 'Agnieszka', 'Walczak', 'female', '2002-03-12', 'Junior UX Designer', 50000, 2450.75, 'Massachusetts', 60000, 580, 3),
     (833, 'Dorota', 'Stępień', 'female', '1999-10-19', 'Marketing Coordinator', 45000, 1600.50, 'Massachusetts', 52000, 510, 2),
     (834, 'Julia', 'Michalak', 'female', '2001-05-27', 'Sales Assistant', 44000, 1350.20, 'Massachusetts', 51000, 480, 1),
     (835, 'Izabela', 'Nowacka', 'female', '1996-11-22', 'Recruitment Assistant', 48000, 2000.85, 'Massachusetts', 55000, 530, 2),
-    (836, 'Natalia', 'Baran', 'female', '2000-09-05', 'Business Support Specialist', 47000, 1750.45, 'Massachusetts', 54000, 520, 2),
+    (836, 'Natalia', 'Baran', 'female', '2004-09-05', 'Business Support Specialist', 47000, 1750.45, 'Massachusetts', 54000, 520, 2),
     (837, 'Marta', 'Jasińska', 'female', '1995-04-09', 'Junior Data Entry Clerk', 41000, 950.60, 'Massachusetts', 49000, 470, 1),
     (838, 'Adrian', 'Głowacki', 'male', '1997-06-17', 'Technical Support Specialist', 49000, 2250.40, 'Massachusetts', 58000, 570, 3),
     (839, 'Lukasz', 'Malinowski', 'male', '2002-01-08', 'Research Assistant', 46000, 1800.20, 'Massachusetts', 53000, 500, 2),
@@ -1197,29 +1197,51 @@ VALUES
     (1221, 'Timo', 'Gerritsen', 'male', '1970-09-06', 'Senior Risk Analyst', 117000, 16500.75, 'Texas', 8700, 742, 4),
     (1222, 'Fleur', 'Cornelissen', 'female', '1971-04-20', 'Senior Biotech Researcher', 130000, 18500.95, 'Florida', 6700, 745, 3),
     (1223, 'Daan', 'Vos', 'male', '1972-07-14', 'Senior Venture Capitalist', 125000, 20000.65, 'Texas', 9600, 750, 4),
-    (1224, 'Esmee', 'Hoekstra', 'female', '1973-05-27', 'Senior Policy Advisor', 118000, 14000.30, 'Florida', 5200, 703, 2);
+    (1224, 'Esmee', 'Hoekstra', 'female', '1973-05-27', 'Senior Policy Advisor', 118000, 14000.30, 'Florida', 5200, 703, 2),
+    (1225, 'Aarav', 'Sharma', 'male', '2003-03-20', 'Junior Analyst', 11000, 850.75, 'Colorado', 5500, 420, 1),
+    (1226, 'Ishaan', 'Patel', 'male', '2003-06-12', 'Assistant Clerk', 10500, 920.25, 'Colorado', 6800, 435, 1),
+    (1227, 'Vihaan', 'Reddy', 'male', '2003-08-05', 'Entry-level Accountant', 11500, 1010.80, 'Colorado', 6200, 410, 2),
+    (1228, 'Kabir', 'Nair', 'male', '2003-02-18', 'Support Technician', 12000, 975.40, 'Colorado', 5700, 445, 1),
+    (1229, 'Reyansh', 'Iyer', 'male', '2003-09-29', 'Junior Assistant', 10800, 1100.60, 'Colorado', 5300, 400, 1),
+    (1230, 'Aadhya', 'Shah', 'female', '2003-11-22', 'Clerical Assistant', 10000, 875.30, 'Colorado', 6950, 442, 1),
+    (1231, 'Anaya', 'Chowdhury', 'female', '2003-07-08', 'Data Entry Clerk', 11200, 890.75, 'Colorado', 6500, 428, 1),
+    (1232, 'Myra', 'Bose', 'female', '2003-04-16', 'Customer Support Rep', 11700, 920.20, 'Colorado', 6000, 440, 2),
+    (1233, 'Riya', 'Malhotra', 'female', '2003-10-11', 'Entry-level Recruiter', 11050, 930.55, 'Colorado', 5100, 415, 1),
+    (1234, 'Saanvi', 'Ranganathan', 'female', '2003-01-23', 'Office Assistant', 10900, 890.40, 'Colorado', 7000, 449, 1),
+    (1235, 'Krishna', 'Varma', 'male', '2003-05-19', 'Bank Teller', 11300, 880.65, 'Colorado', 6400, 425, 2),
+    (1236, 'Rohan', 'Goswami', 'male', '2003-12-09', 'Entry-level Technician', 11800, 950.75, 'Colorado', 5200, 410, 1),
+    (1237, 'Dev', 'Deshmukh', 'male', '2003-02-14', 'Junior Clerk', 10650, 980.25, 'Colorado', 5900, 430, 1),
+    (1238, 'Aditi', 'Tripathi', 'female', '2003-06-21', 'Intern', 10200, 870.90, 'Colorado', 6800, 448, 1),
+    (1239, 'Meera', 'Jha', 'female', '2003-09-17', 'Trainee', 10050, 940.30, 'Colorado', 5600, 402, 1),
+    (1240, 'Ishita', 'Kulkarni', 'female', '2003-07-30', 'Retail Associate', 11550, 890.80, 'Colorado', 5300, 445, 2),
+    (1241, 'Aryan', 'Bhat', 'male', '2003-05-12', 'Junior Data Clerk', 11900, 970.45, 'Colorado', 6700, 432, 1),
+    (1242, 'Neha', 'Dutta', 'female', '2003-08-24', 'Call Center Rep', 11250, 860.75, 'Colorado', 5100, 409, 1),
+    (1243, 'Yash', 'Sen', 'male', '2003-03-29', 'Trainee Accountant', 10750, 905.20, 'Colorado', 6500, 438, 1),
+    (1244, 'Tanish', 'Mishra', 'male', '2003-11-05', 'Junior Support Staff', 10400, 895.10, 'Colorado', 6900, 450, 1),
+    (1245, 'Ira', 'Kapoor', 'female', '2003-10-06', 'Entry-level HR Assistant', 11650, 930.35, 'Colorado', 6200, 418, 1),
+    (1246, 'Kavya', 'Mehta', 'female', '2003-01-31', 'Bank Teller', 11850, 955.55, 'Colorado', 5800, 443, 2),
+    (1247, 'Vikram', 'Pillai', 'male', '2003-09-09', 'Entry-level Consultant', 11150, 970.85, 'Colorado', 5400, 414, 1),
+    (1248, 'Raj', 'Joshi', 'male', '2003-04-07', 'Junior Marketing Assistant', 10350, 945.25, 'Colorado', 7000, 447, 1),
+    (1249, 'Pooja', 'Rastogi', 'female', '2003-07-15', 'Receptionist', 10100, 910.15, 'Colorado', 5700, 412, 1)
+    ;
 
--- Fixing errors in customer_id
+
+-- Fixing errors in customer_id, need to disable and then restore pirmary key.
 SET SQL_SAFE_UPDATES = 0;
 
--- Step 1: Add a temporary column to store new customer IDs
 ALTER TABLE emerald_crown_bank_customers ADD COLUMN temp_id INT;
 
--- Step 2: Assign new sequential customer IDs, starting from the lowest missing number
 SET @new_id = (SELECT MIN(customer_id) - 1 FROM emerald_crown_bank_customers);
 
 UPDATE emerald_crown_bank_customers 
 SET temp_id = (@new_id := @new_id + 1)
 ORDER BY customer_id;
 
--- Step 3: Drop the old customer_id column and rename temp_id to customer_id
 ALTER TABLE emerald_crown_bank_customers DROP COLUMN customer_id;
 ALTER TABLE emerald_crown_bank_customers CHANGE COLUMN temp_id customer_id INT NOT NULL;
 
--- Step 4: Restore the primary key to customer_id
 ALTER TABLE emerald_crown_bank_customers ADD PRIMARY KEY (customer_id);
 
--- Re-enable Safe Updates
 SET SQL_SAFE_UPDATES = 1;
   
   
