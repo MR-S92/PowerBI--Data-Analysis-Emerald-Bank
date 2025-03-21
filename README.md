@@ -11,29 +11,28 @@ Emerald Crown Bank wants to create an in-depth annual report for 2025, analyzing
 
 ## Questions (KPIs) 
 
-Sum of yearly income for 2025? 
+- Sum of yearly income for 2025? 
 
-What is the average balance of our customers? 
+- What is the average balance of our customers? 
 
-Total distribution of debt by state? 
+- Total distribution of debt by state? 
 
-Distribution of total debt and yearly Income by gender? 
+- Distribution of total debt and yearly Income by gender? 
 
-Sum of DTI ratio by age group? 
+- Sum of DTI ratio by age group? 
 
-Total customers in 2025? 
+- Total customers in 2025? 
 
 ## Process 
 
-Create a database in MYSQL for Emerald Crown Bank for 2025. 
+- Create a database in MYSQL for Emerald Crown Bank for 2025. 
 
-Having more than 1,100 customers with unique names, income, debt, credit score, and where they live. 
+- Having more than 1,100 customers with unique names, income, debt, credit score, and where they live. 
 
-Ensured data consistency and integrity by standardizing data types, formats, and values. 
+- Ensured data consistency and integrity by standardizing data types, formats, and values. 
 
-Developed a Power BI dashboard to enhance data visualization and insights from SQL. 
-
-Upload and present my project in GitHub. 
+- Developed a Power BI dashboard to enhance data visualization and insights from SQL. 
+ 
 
 ## Dashboard 
 
@@ -53,7 +52,7 @@ The customer distribution in 2025 is composed of 58% male and 42% female.
 
 The distribution of total debt and yearly Income by gender appears to be a general positive correlation total debt and yearly income for both genders. Individuals with higher incomes tend to have a higher debt. In addition, males take on larger debts relative to their income compared to females... Females tend to have lower debt levels and a more concentrated income range, indicating potentially more conservative financial behavior or different economic circumstances. 
 
-Calculated a total sum of 1,174 customers in 2025. 
+Calculated a total sum of 1,999 customers in 2025. 
 
 Total debt by state, with New York leading at 5.7M, followed by Florida 4M, and Texas 3.6M. 
 
