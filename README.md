@@ -5,6 +5,8 @@ Developing and refining my skills in SQL and Power BI by creating a project to a
 
 Emerald Crown Bank wants to create an in-depth annual report for 2025, analyzing data to gain deeper insights into our customers and make better business decisions regarding trust and security. 
 
+<img src="https://github.com/user-attachments/assets/24c4eefc-064b-499f-8b7a-929cd8e734f9" style="min-width:400px; max-width:400px; width:450px;" align="right">
+
 ## Dataset used 
 
 - <a href= "https://github.com/MR-S92/PowerBI--Data-Analysis-Emerald-Bank/blob/main/Emerald_Crown_Bank.sql">Link to SQL Dataset</a>
